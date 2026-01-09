@@ -26,7 +26,7 @@ SEEDO는 가상 농사와 게이미피케이션을 결합한 웹 서비스로,
 
 ### 🤟🏻 수확 → 보관 → 판매/배송까지의 활용 루프
 <img width="792" height="446" alt="image" src="https://github.com/user-attachments/assets/13b03b9e-d293-4de4-8a08-faf498d4172a" />
-/>
+
 
 
 ## ⚙️ 기술 스택
@@ -38,4 +38,4 @@ SEEDO는 가상 농사와 게이미피케이션을 결합한 웹 서비스로,
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python badge">  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask badge">  <img src="https://img.shields.io/badge/nodedotjs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodedotjs badge">
 
 ## 🗣 팀원 소개
-<table> <tbody> <tr> <td align="center"> <img src="" width="100px;" alt="팀장: 오은서"/><br /> <sub><b>팀장 : 오은서</b></sub> </td> <td align="center"> <img src="" width="100px;" alt="팀원: 서혜인"/><br /> <sub><b>팀원 : 서혜인</b></sub> </td> <td align="center"> <img src="" width="100px;" alt="팀원: 천수만"/><br /> <sub><b>팀원 : 천수만</b></sub> </td> <td align="center"> <img src="" width="100px;" alt="팀원: 고시온"/><br /> <sub><b>팀원 : 고시온</b></sub> </td> </tr> </tbody> </table>
+<table> <tbody> <tr> <td align="center"> <img src="https://github.com/user-attachments/assets/f97310c4-8d7f-4093-9563-38cd02b6e568" width="100px;" alt="팀장: 오은서"/><br /> <sub><b>팀장 : 오은서</b></sub> </td> <td align="center"> <img src="https://github.com/user-attachments/assets/ded4d227-300f-448c-a3e9-e460b8683bdf" width="100px;" alt="팀원: 서혜인"/><br /> <sub><b>팀원 : 서혜인</b></sub> </td> <td align="center"> <img src="https://github.com/user-attachments/assets/cf6bc4fb-3a92-4575-82e4-f5672c1da806" width="100px;" alt="팀원: 천수만"/><br /> <sub><b>팀원 : 천수만</b></sub> </td> <td align="center"> <img src="https://github.com/user-attachments/assets/d002622f-8fe7-4c52-b31d-551aa147672b" width="100px;" alt="팀원: 고시온"/><br /> <sub><b>팀원 : 고시온</b></sub> </td> </tr> </tbody> </table>
